@@ -1,2 +1,2 @@
-# Ingredients for scrembled eggs
+# Ingredients for scrambled eggs
 - eggs
